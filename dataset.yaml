@@ -1,0 +1,9 @@
+# train and validation path
+train: ../dataset/images/train
+val: ../dataset/images/test
+
+# Number of classes
+nc = 2
+
+# Class Names
+names: ['bengal_fox', 'desert_fox']
